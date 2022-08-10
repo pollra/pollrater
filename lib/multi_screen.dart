@@ -80,16 +80,6 @@ class MultiPageListView extends StatefulWidget {
 
   @override
     State<MultiPageListView> createState() => _MultiListView();
-  // Widget build(BuildContext context) {
-    // return const Scaffold(
-    //   body: Center(
-    //     child: Text(
-    //       'MultiPage_C',
-    //       style: TextStyle(fontSize: 30),
-    //     ),
-    //   ),
-    // );
-  // }
 }
 
 class _MultiListView extends State<MultiPageListView> {

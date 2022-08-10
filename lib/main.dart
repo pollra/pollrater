@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:pollrater_example_01/first_screen.dart';
-import 'package:pollrater_example_01/second_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +15,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       // home: const MyHomePage(title: 'Flutter Demo Home Page'),
-      home: const FirstScreen(),
+      home: MyHomePage(title: 'Flutter Demo'),
     );
   }
 }

@@ -1,16 +1,14 @@
 # pollrater_example_01
 
-A new Flutter project.
+ 동료들과 스터디를 하며 플러터를 교육하고, 만든 결과물을 공유합니다
 
-## Getting Started
+# 간단설명
 
-This project is a starting point for a Flutter application.
+간단한 기본 어플리케이션으로, 기본적인 예제에 집중합니다
 
-A few resources to get you started if this is your first Flutter project:
+# 진행현황
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1일차: Dart 기본 언어 익히기
+2일차: 플러터 기본 카운터 증가 앱 코드 정독
+3일차: Navigator 개념과 실습 및 Button, MultiTab 화면
+4일차: Column 과 Row, Image 실습 및 ListView, ListTile 실습

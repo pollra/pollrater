@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:pollrater_example_01/first_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -62,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
         onPressed: _incrementCounter,
         tooltip: 'Increment',
         child: const Icon(Icons.add),
-      ),
+      ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
 }

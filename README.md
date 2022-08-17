@@ -8,7 +8,8 @@
 
 # 진행현황
 
-1일차: Dart 기본 언어 익히기
-2일차: 플러터 기본 카운터 증가 앱 코드 정독
-3일차: Navigator 개념과 실습 및 Button, MultiTab 화면
-4일차: Column 과 Row, Image 실습 및 ListView, ListTile 실습
+1주차: Dart 기본 언어 익히기
+2주차: 플러터 기본 카운터 증가 앱 코드 정독
+3주차: Navigator 개념과 실습 및 Button, MultiTab 화면
+4주차: Column 과 Row, Image 실습 및 ListView, ListTile 실습
+5주차: ListView 내부의 값을 객체 형태로 만들어 ListTile 대체한 도서 목록 기능 구현
